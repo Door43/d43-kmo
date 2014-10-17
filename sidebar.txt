@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kmo:home|Door43 (kmo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kmo|d43-kmo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kmo/archive/master.zip|d43-kmo.zip]]
+
+**Recent Changes**
+{{changes>ns = kmo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kmo|Ethnologue data]]
+
